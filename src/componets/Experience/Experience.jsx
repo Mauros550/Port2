@@ -21,6 +21,8 @@ export const Experience = () => {
             );
           })}
         </div>
+
+        {/* History and Experience Section */}
         <ul className={styles.history}>
           {history.map((historyItem, id) => {
             return (
@@ -42,7 +44,17 @@ export const Experience = () => {
             );
           })}
         </ul>
+
+        {/* Resume Link Section */}
+        <div className={styles.resume}>
+          <h3>Download My Resume</h3>
+          {/* Replace 'your-resume.pdf' with the actual file path or URL */}
+          <a href="/path/to/public/assets/skills/resume.pdf" download className={styles.resumeLink}>
+            Click here to download my resume
+          </a>
+        </div>
       </div>
     </section>
   );
 };
+

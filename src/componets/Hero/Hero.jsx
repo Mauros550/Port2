@@ -11,7 +11,7 @@ export const Hero = () => {
             <p className= {styles.description}>
                 I am a beginner coding developer! If you have any tips for me. Reach out!
             </p>
-            <a href="mailtomyemail.com" className={styles.contactBtn}>Contact Me</a>
+            <a href="mailtomyemail.com" className={styles.contactBtn}>Click the Top Right For More ! </a>
         </div>
         <img src={"assets/hero/heroImage.JPG"} alt="Hero image of me " className={styles.heroImg}/>
     <div className= {styles.topBlur} />

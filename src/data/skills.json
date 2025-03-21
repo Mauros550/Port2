@@ -1,30 +1,37 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "title": "Employee Tracker",
+    "imageSrc": "skills/kool.png",
+    "link": "https://github.com/Mauros550/Employee-Tracker"
   },
   {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "title": "DailyBreeze",
+    "imageSrc": "skills/rocket.png",
+    "link": "https://github.com/Mauros550/DailyBreeze"
   },
   {
-    "title": "React",
-    "imageSrc": "skills/react.png"
+    "title": "GeneratorReadMe",
+    "imageSrc": "skills/small-flame.jpg",
+    "link": "https://github.com/Mauros550/GeneratorReadMe"
   },
   {
-    "title": "Node",
-    "imageSrc": "skills/node.png"
+    "title": "Repo4",
+    "imageSrc": "skills/rocket.png",
+    "link": "https://en.wikipedia.org/wiki/Developer"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "Repo5",
+    "imageSrc": "skills/rocket.png",
+    "link": "https://en.wikipedia.org/wiki/Developer"
   },
   {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
+    "title": "Repo6",
+    "imageSrc": "skills/rocket.png",
+    "link": "https://en.wikipedia.org/wiki/Developer"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "Resume",
+    "imageSrc": "skills/rocket.png",
+    "link": ""
   }
 ]
