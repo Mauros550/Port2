@@ -1,3 +1,4 @@
 export const getImageUrl = (path) => {
-    return new URL (`/assets/${path}`, import.meta.url).href;
-};
+    // Since assets are served from the public folder, just prepend '/assets/'
+    return `/assets/${path}`;
+  };
