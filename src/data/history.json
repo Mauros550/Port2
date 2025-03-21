@@ -1,0 +1,29 @@
+[
+    {
+      "role": "WashRack",
+      "organisation": "Toyota",
+      "startDate": "Sept, 2024",
+      "endDate": "Dec, 2024",
+      "experiences": ["Washed every single car that got sold"],
+      "imageSrc": "history/working.png"
+    },
+    {
+      "role": "Lube tech",
+      "organisation": "Toyota",
+      "startDate": "Aug, 2024",
+      "endDate": "Dec, 2024",
+      "experiences": ["Worked on every single car that needed maintenance"],
+      "imageSrc": "history/working.png"
+    },
+    {
+      "role": "Low-Voltage",
+      "organisation": "Pacificom",
+      "startDate": "Dec, 2024",
+      "endDate": "Present",
+      "experiences": [
+        "Worked on wires and cable for security"
+        
+      ],
+      "imageSrc": "history/working.png"
+    }
+  ]

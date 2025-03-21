@@ -1,0 +1,24 @@
+[
+    {
+      "title": "Employee Tracker",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "source": "https://github.com/Mauros550/Employee-Tracker"
+    },
+    {
+      "title": "DailyBreeze",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "source": "https://github.com/Mauros550/DailyBreeze"
+    },
+    {
+      "title": "GeneratorReadMe",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "source": "https://github.com/Mauros550/GeneratorReadMe"
+    }
+    
+  ]

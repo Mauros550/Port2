@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Employee Tracker",
+    "imageSrc": "skills/kool.png",
+    "link": "https://github.com/Mauros550/Employee-Tracker"
+  },
+  {
+    "title": "DailyBreeze",
+    "imageSrc": "skills/rocket.png",
+    "link": "https://github.com/Mauros550/DailyBreeze"
+  },
+  {
+    "title": "GeneratorReadMe",
+    "imageSrc": "skills/small-flame.jpg",
+    "link": "https://github.com/Mauros550/GeneratorReadMe"
+  },
+  {
+    "title": "Repo4",
+    "imageSrc": "skills/rocket.png",
+    "link": "https://en.wikipedia.org/wiki/Developer"
+  },
+  {
+    "title": "Repo5",
+    "imageSrc": "skills/rocket.png",
+    "link": "https://en.wikipedia.org/wiki/Developer"
+  },
+  {
+    "title": "Repo6",
+    "imageSrc": "skills/rocket.png",
+    "link": "https://en.wikipedia.org/wiki/Developer"
+  },
+  {
+    "title": "Resume",
+    "imageSrc": "skills/rocket.png",
+    "link": ""
+  }
+]
