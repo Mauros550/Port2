@@ -5,21 +5,29 @@ About: Information about my background, skills, and interests.
 Experience: A detailed look at my professional experience and key skills.
 Projects: A showcase of projects I've worked on, highlighting my coding abilities and the technologies I use.
 Contact: A section for users to contact me via email or LinkedIn.
+
+
 Technologies Used:
 React: The core framework for building the interactive UI.
 CSS Modules: Used for modular, scoped styles.
 React Router: For routing between different sections of the portfolio.
 Vite: A modern build tool for faster development and deployment.
+
+
 Features:
 Responsive Design: The portfolio adapts to different screen sizes, ensuring it looks great on both desktop and mobile devices.
 Interactive Navigation: A user-friendly navigation bar, including a hamburger menu for mobile devices.
 Project Showcase: A dynamic section to display projects with detailed descriptions, technologies used, and external links to live demos and code repositories.
 Contact Form: Includes links to my email and LinkedIn for easy communication.
+
+
 Setup and Usage:
 Clone this repository to your local machine.
 Run npm install to install the necessary dependencies.
 Start the development server using npm run dev.
 Visit http://localhost:3000 to view the website locally.
+
+
 Future Enhancements:
 Implementing a contact form where users can directly send me messages.
 Improving accessibility features for a wider audience.
