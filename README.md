@@ -13,7 +13,7 @@ Welcome to my developer portfolio! This single-page application showcases some o
 - HTML/CSS
 
 ## 📸 Screenshots
-![Portfolio Screenshot]( ![IMG_0821](https://github.com/user-attachments/assets/e01c10da-79a0-46d7-a8f1-6f41d75e8c02)
+![Portfolio Screenshot]( ![IMG_0821]
   )  
 
 ## 📁 Features
