@@ -13,8 +13,7 @@ Welcome to my developer portfolio! This single-page application showcases some o
 - HTML/CSS
 
 ## 📸 Screenshots
-![Portfolio Screenshot]( ![IMG_0821]
-  )  
+![Portfolio Screenshot]()  
 
 ## 📁 Features
 - Fully responsive mobile-first design
