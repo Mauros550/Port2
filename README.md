@@ -24,9 +24,9 @@ Welcome to my developer portfolio! This single-page application showcases some o
 - Footer with GitHub, LinkedIn, and Twitter/StackOverflow links
 
 ## 📥 Contact Me
-- Email: your@email.com
-- GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Email: mariscalmauro0608@email.com
+- GitHub: [https://github.com/Mauros550
+
 
 ## 📝 How to Run Locally
 ```bash
