@@ -13,7 +13,7 @@ Welcome to my developer portfolio! This single-page application showcases some o
 - HTML/CSS
 
 ## 📸 Screenshots
-![Portfolio Screenshot]()  
+![Portfolio Screenshot](https://github.com/Mauros550/Port2/blob/main/IMG_0821.jpg)  
 
 ## 📁 Features
 - Fully responsive mobile-first design
