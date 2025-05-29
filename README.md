@@ -13,9 +13,8 @@ Welcome to my developer portfolio! This single-page application showcases some o
 - HTML/CSS
 
 ## 📸 Screenshots
-![Portfolio Screenshot](![IMG_0821](https://github.com/user-attachments/assets/657cb5ca-5cef-46eb-9c0d-44ac6db9db1b)
-)  
-> Tip: Save a screenshot of your site and add it to your `/public` folder.
+![Portfolio Screenshot]( ![IMG_0821](https://github.com/user-attachments/assets/e01c10da-79a0-46d7-a8f1-6f41d75e8c02)
+  )  
 
 ## 📁 Features
 - Fully responsive mobile-first design
